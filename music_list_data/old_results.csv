@@ -1,0 +1,76 @@
+,artist,song,artists,songs,#_words,#_unique_words,#_filter_words,#_big_words,avg_word_len,filter_avg_word_len,big_avg_word_len
+0,wu-tang clan,cream,wu-tang-clan,cream,679,309,252,256,4.741100324,5.107142857,5.12109375
+1,wu-tang clan,gravel pit,wu-tang-clan,gravel-pit,711,361,308,311,4.825484765,5.13961039,5.144694534
+2,wu-tang clan,triumph,wu-tang-clan,triumph,1027,605,549,555,5.565289256,5.81420765,5.809009009
+3,wu-tang clan,bring da ruckus,wu-tang-clan,bring-da-ruckus,616,269,223,225,5.022304833,5.461883408,5.466666667
+4,wu-tang clan,protect ya neck,wu-tang-clan,protect-ya-neck,66,35,24,26,4.2,4.583333333,4.692307692
+5,2pac,how do you want it,2pac,how-do-you-want-it,595,236,182,184,4.559322034,5.038461538,5.038043478
+6,2pac,keep ya head up,2pac,keep-ya-head-up,820,325,258,264,4.538461538,4.899224806,4.912878788
+7,2pac,I get around,2pac,I-get-around,669,259,200,205,4.501930502,4.925,4.926829268
+8,2pac,dear mama,2pac,dear-mama,679,268,215,221,4.78358209,5.186046512,5.199095023
+9,2pac,california love,2pac,california-love,554,223,173,178,4.766816143,5.23699422,5.241573034
+10,krs one,mcs act like they dont know,krs-one,mcs-act-like-they-dont-know,577,302,245,250,4.784768212,5.146938776,5.164
+11,krs one,sound of da police,krs-one,sound-of-da-police,561,224,164,171,4.59375,5.12804878,5.122807018
+12,krs one,step into a world raptures delight,krs-one,step-into-a-world-raptures-delight,531,269,216,220,4.910780669,5.375,5.368181818
+13,krs one,rappaz r n dainja,krs-one,rappaz-r-n-dainja,447,202,153,156,4.737623762,5.281045752,5.288461538
+14,krs one,a friend,krs-one,a-friend,427,250,202,203,5.064,5.599009901,5.596059113
+15,the notorious big,juicy,the-notorious-big,juicy,749,323,272,274,4.904024768,5.264705882,5.262773723
+16,the notorious big,big poppa,the-notorious-big,big-poppa,692,274,216,222,4.682481752,5.092592593,5.108108108
+17,the notorious big,hypnotize,the-notorious-big,hypnotize,681,274,226,232,4.770072993,5.115044248,5.120689655
+18,the notorious big,mo money mo problems,the-notorious-big,mo-money-mo-problems,534,256,208,212,4.4375,4.774038462,4.778301887
+19,the notorious big,going back to cali,the-notorious-big,going-back-to-cali,621,290,236,241,4.593103448,4.936440678,4.954356846
+20,a tribe called quest,electric relaxation,a-tribe-called-quest,electric-relaxation,532,251,192,196,4.438247012,4.875,4.892857143
+21,a tribe called quest,check the rhime,a-tribe-called-quest,check-the-rhime,573,260,207,212,4.653846154,5.062801932,5.075471698
+22,a tribe called quest,award tour,a-tribe-called-quest,award-tour,666,274,218,221,4.781021898,5.26146789,5.257918552
+23,a tribe called quest,scenario,a-tribe-called-quest,scenario,806,383,317,323,4.908616188,5.258675079,5.27244582
+24,a tribe called quest,buggin out,a-tribe-called-quest,buggin-out,773,308,243,251,4.827922078,5.259259259,5.274900398
+25,bone thugs n harmony,tha crossroads,bone-thugs-n-harmony,tha-crossroads,735,236,182,187,4.449152542,4.879120879,4.898395722
+26,bone thugs n harmony,1st of tha month,bone-thugs-n-harmony,1st-of-tha-month,861,310,256,261,4.519354839,4.81640625,4.827586207
+27,bone thugs n harmony,thuggish ruggish bone,bone-thugs-n-harmony,thuggish-ruggish-bone,627,266,214,219,4.733082707,5.102803738,5.118721461
+28,bone thugs n harmony,foe tha love of,bone-thugs-n-harmony,foe-tha-love-of,948,354,294,300,4.875706215,5.214285714,5.216666667
+29,the notorious big,notorious thugs,the-notorious-big,notorious-thugs,1039,434,366,370,4.894009217,5.218579235,5.237837838
+30,yasiin bey,ms fat booty,yasiin-bey,ms-fat-booty,832,385,324,328,4.981818182,5.336419753,5.335365854
+31,yasiin bey,mathematics,yasiin-bey,mathematics,712,368,306,312,5.269021739,5.699346405,5.692307692
+32,yasiin bey,oh no,yasiin-bey,oh-no,636,336,276,279,4.99702381,5.398550725,5.405017921
+33,yasiin bey,auditorium,yasiin-bey,auditorium,563,286,236,242,4.874125874,5.241525424,5.247933884
+34,yasiin bey,hip hop,yasiin-bey,hip-hop,518,311,269,272,5.318327974,5.661710037,5.665441176
+35,outkast,ms jackson,outkast,ms-jackson,685,256,198,201,4.78125,5.282828283,5.288557214
+36,outkast,so fresh so clean,outkast,so-fresh-so-clean,774,213,167,170,4.690140845,5.203592814,5.2
+37,outkast,bob,outkast,bob,720,311,257,261,4.736334405,5.077821012,5.095785441
+38,outkast,southernplayalisticadillacmuzik,outkast,southernplayalisticadillacmuzik,771,338,278,284,4.937869822,5.31294964,5.320422535
+39,outkast,atliens,outkast,atliens,691,274,214,224,4.788321168,5.196261682,5.205357143
+40,snoop dogg,gin and juice,snoop-dogg,gin-and-juice,610,224,172,176,4.553571429,5.029069767,5.039772727
+41,snoop dogg,lodi dodi,snoop-dogg,lodi-dodi,702,314,246,254,4.547770701,4.890243902,4.929133858
+42,snoop dogg,aint no fun if the homies cant have none,snoop-dogg,aint-no-fun-if-the-homies-cant-have-none,539,242,182,188,4.421487603,4.846153846,4.877659574
+43,snoop dogg,murder was the case,snoop-dogg,murder-was-the-case,567,268,213,220,4.563432836,4.906103286,4.922727273
+44,dr dre,nuthin but a g thang,dr-dre,nuthin-but-a-g-thang,721,287,223,229,4.728222997,5.215246637,5.213973799
+45,nas,the world is yours,nas,the-world-is-yours,739,315,267,272,5.092063492,5.453183521,5.455882353
+46,nas,ny state of mind,nas,ny-state-of-mind,789,436,369,375,5.135321101,5.490514905,5.488
+47,nas,if i ruled the world imagine that,nas,if-i-ruled-the-world-imagine-that,571,329,277,281,5.088145897,5.469314079,5.46975089
+48,nas,nas is like,nas,nas-is-like,612,327,275,281,4.847094801,5.167272727,5.174377224
+49,nas,hate me now,nas,hate-me-now,803,314,253,259,4.821656051,5.209486166,5.223938224
+50,ice cube,it was a good day,ice-cube,it-was-a-good-day,497,258,211,214,4.550387597,4.909952607,4.911214953
+51,ice cube,check yo self,ice-cube,check-yo-self,472,225,178,183,4.795555556,5.264044944,5.262295082
+52,ice cube,you know how we do it,ice-cube,you-know-how-we-do-it,388,192,148,150,4.395833333,4.844594595,4.866666667
+53,ice cube,no vaseline,ice-cube,no-vaseline,985,377,316,320,4.952254642,5.316455696,5.315625
+54,ice cube,ghetto bird,ice-cube,ghetto-bird,626,312,251,257,4.682692308,5.071713147,5.077821012
+55,jay z,big pimpin,jay-z,big-pimpin,763,321,268,275,4.663551402,4.955223881,4.970909091
+56,jay z,hard knock life ghetto anthem,jay-z,hard-knock-life-ghetto-anthem,582,250,203,207,4.704,5.078817734,5.096618357
+57,jay z,izzo hova,jay-z,izzo-hova,645,231,180,185,4.705627706,5.155555556,5.167567568
+58,jay z,99 problems,jay-z,99-problems,729,285,221,230,4.610526316,4.995475113,5.02173913
+59,jay z,dirt off your shoulder,jay-z,dirt-off-your-shoulder,665,217,175,176,4.723502304,5.171428571,5.181818182
+60,eminem,my name is,eminem,my-name-is,749,303,236,244,4.679867987,5.088983051,5.098360656
+61,eminem,stan,eminem,stan,1285,398,319,329,4.804020101,5.178683386,5.197568389
+62,eminem,the way I am,eminem,the-way-I-am,835,299,234,240,4.889632107,5.38034188,5.375
+63,eminem,the real slim shady,eminem,the-real-slim-shady,1007,351,279,285,4.826210826,5.250896057,5.252631579
+64,eminem,guilty conscience,eminem,guilty-conscience,559,283,216,224,4.586572438,4.99537037,5.008928571
+65,too short,life is too short,too-short,life-is-too-short,568,255,198,202,4.549019608,4.964646465,4.97029703
+66,too short,im a player,too-short,im-a-player,616,295,234,243,4.511864407,4.841880342,4.860082305
+67,too short,gettin it,too-short,gettin-it,681,272,213,222,4.5,4.845070423,4.878378378
+68,too short,blow job betty,too-short,blow-job-betty,24,22,12,13,3.681818182,4.583333333,4.615384615
+69,too short,freaky tales,too-short,freaky-tales,1432,477,406,415,4.809224319,5.078817734,5.091566265
+70,dr dre,let me ride,dr-dre,let-me-ride,764,254,205,210,4.736220472,5.136585366,5.138095238
+71,dr dre,still dre,dr-dre,still-dre,610,271,224,228,4.41697417,4.705357143,4.719298246
+72,dr dre,forgot about dre,dr-dre,forgot-about-dre,858,330,263,270,4.778787879,5.178707224,5.181481481
+73,dr dre,the next episode,dr-dre,the-next-episode,398,204,158,160,4.544117647,5.006329114,5.01875
+74,dr dre,fuck wit dre day and everybodys celebratin ,dr-dre,fuck-wit-dre-day-and-everybodys-celebratin,685,302,242,248,4.69205298,5.074380165,5.084677419

@@ -1,0 +1,76 @@
+,artist,song,artists,songs,#_words,#_unique_words,#_filter_words,#_big_words,avg_word_len,filter_avg_word_len,big_avg_word_len
+0,21 savage,bank account,21-savage,bank-account,616,191,156,158,4.565445026,4.929487179,4.930379747
+1,21 savage,no heart,21-savage,no-heart,598,219,176,180,4.611872146,5.005681818,5.005555556
+2,21 savage,x,21-savage,x,588,180,143,146,4.661111111,5.055944056,5.068493151
+3,21 savage,red opps,21-savage,red-opps,448,131,100,101,4.022900763,4.37,4.376237624
+4,21 savage,issa,21-savage,issa,589,275,235,237,4.745454545,5.068085106,5.067510549
+5,kodak black,roll in peace,kodak-black,roll-in-peace,739,179,133,136,4.374301676,4.84962406,4.867647059
+6,kodak black,transportin,kodak-black,transportin,475,171,128,132,4.49122807,5,5
+7,kodak black,codeine dreaming,kodak-black,codeine-dreaming,735,220,169,174,4.795454545,5.331360947,5.327586207
+8,kodak black,tunnel vision,kodak-black,tunnel-vision,615,134,101,102,4.455223881,4.97029703,4.970588235
+9,kodak black,patty cake,kodak-black,patty-cake,550,182,142,142,4.384615385,4.823943662,4.823943662
+10,playboi carti,magnolia,playboi-carti,magnolia,463,160,124,125,4.28125,4.677419355,4.68
+11,playboi carti,wokeuplikethis,playboi-carti,wokeuplikethis,634,182,147,149,4.401098901,4.74829932,4.758389262
+12,playboi carti,dothatshit,playboi-carti,dothatshit,421,96,68,71,4.302083333,4.794117647,4.830985915
+13,playboi carti,new choppa,playboi-carti,new-choppa,346,155,113,115,4.2,4.707964602,4.713043478
+14,playboi carti,lookin,playboi-carti,lookin,498,142,104,107,3.957746479,4.288461538,4.308411215
+15,xxxtentacion,jocelyn flores,xxxtentacion,jocelyn-flores,235,119,81,84,4.756302521,5.518518519,5.55952381
+16,xxxtentacion,fuck love,xxxtentacion,fuck-love,142,39,29,30,3.948717949,4.344827586,4.366666667
+17,xxxtentacion,everybody dies in their nightmares,xxxtentacion,everybody-dies-in-their-nightmares,328,75,54,55,4.28,4.87037037,4.872727273
+18,xxxtentacion,look at me,xxxtentacion,look-at-me,335,105,77,79,4.171428571,4.688311688,4.696202532
+19,xxxtentacion,looking for a star,xxxtentacion,looking-for-a-star,133,42,25,27,4,4.8,4.814814815
+20,trippie redd,love scars you hurt me,trippie-redd,love-scars-you-hurt-me,265,132,90,92,4.356060606,5.055555556,5.054347826
+21,trippie redd,poles1469,trippie-redd,poles1469,340,124,98,99,3.903225806,4.214285714,4.222222222
+22,trippie redd,bust down love scars 3 ,trippie-redd,bust-down-love-scars-3,487,142,106,108,4.415492958,4.877358491,4.898148148
+23,trippie redd,dark knight dummo,trippie-redd,dark-knight-dummo,470,173,137,138,4.421965318,4.839416058,4.84057971
+24,trippie redd,romeo and juliet,trippie-redd,romeo-and-juliet,270,69,47,47,3.913043478,4.574468085,4.574468085
+25,lil yachty,1night,lil-yachty,1night,246,86,52,55,4.104651163,4.826923077,4.872727273
+26,lil yachty,forever young,lil-yachty,forever-young,335,114,81,82,4.280701754,4.901234568,4.902439024
+27,lil yachty,minnesota,lil-yachty,minnesota,114,19,11,11,3.842105263,4.727272727,4.727272727
+28,lil yachty,wanna be us,lil-yachty,wanna-be-us,525,107,80,81,4.373831776,4.9125,4.913580247
+29,lil yachty,peek a boo,lil-yachty,peek-a-boo,810,256,208,210,4.59375,4.961538462,4.961904762
+30,lil uzi vert,xo tour llif3,lil-uzi-vert,xo-tour-llif3,481,165,122,124,4.4,4.893442623,4.911290323
+31,lil uzi vert,the way life goes,lil-uzi-vert,the-way-life-goes,577,156,115,118,4.403846154,4.92173913,4.93220339
+32,lil uzi vert,sauce it up,lil-uzi-vert,sauce-it-up,487,170,128,132,4.423529412,4.890625,4.909090909
+33,lil uzi vert,money longer,lil-uzi-vert,money-longer,455,130,88,89,4.184615385,4.840909091,4.842696629
+34,lil uzi vert,do what I want,lil-uzi-vert,do-what-I-want,492,147,108,112,4.360544218,4.796296296,4.830357143
+35,young thug,relationship,young-thug,relationship,613,200,156,160,4.335,4.705128205,4.725
+36,young thug,stoner,young-thug,stoner,505,159,122,122,4.301886792,4.786885246,4.786885246
+37,young thug,wyclef jean,young-thug,wyclef-jean,649,194,150,151,4.195876289,4.58,4.582781457
+38,young thug,digits,young-thug,digits,743,182,138,140,4.412087912,4.876811594,4.9
+39,young thug,best friend,young-thug,best-friend,516,208,168,170,4.519230769,4.892857143,4.894117647
+40,travis scott,butterfly effect,travis-scott,butterfly-effect,380,147,112,113,4.142857143,4.5625,4.584070796
+41,travis scott,goosebumps,travis-scott,goosebumps,529,182,141,146,4.56043956,4.985815603,5
+42,travis scott,beibs in the trap,travis-scott,beibs-in-the-trap,503,182,144,146,4.620879121,5.083333333,5.082191781
+43,travis scott,90210,travis-scott,90210,471,232,185,188,4.693965517,5.135135135,5.132978723
+44,travis scott,antidote,travis-scott,antidote,472,158,112,116,4.443037975,5.053571429,5.068965517
+45,lil pump,gucci gang,lil-pump,gucci-gang,358,104,78,78,4.336538462,4.858974359,4.858974359
+46,lil pump,molly,lil-pump,molly,348,100,70,70,3.99,4.471428571,4.471428571
+47,lil pump,boss,lil-pump,boss,290,79,60,60,3.886075949,4.316666667,4.316666667
+48,lil pump,flex like ouu,lil-pump,flex-like-ouu,344,77,58,60,4.116883117,4.551724138,4.6
+49,lil pump,d rose,lil-pump,d-rose,392,60,43,43,3.5,3.953488372,3.953488372
+50,migos,look at my dab,migos,look-at-my-dab,720,189,145,148,4.751322751,5.296551724,5.304054054
+51,migos,slippery,migos,slippery,701,299,257,259,4.775919732,5.077821012,5.077220077
+52,migos,bad and boujee,migos,bad-and-boujee,1051,325,275,278,4.556923077,4.829090909,4.838129496
+53,migos,t shirt,migos,t-shirt,493,204,162,165,4.514705882,4.901234568,4.915151515
+54,migos,versace,migos,versace,504,188,147,149,4.627659574,5.108843537,5.10738255
+55,future,mask off,future,mask-off,339,144,113,116,5.020833333,5.592920354,5.586206897
+56,future,fuck up some commas,future,fuck-up-some-commas,716,169,131,134,4.266272189,4.633587786,4.656716418
+57,future,where you at,future,where-you-at,713,213,169,174,4.779342723,5.201183432,5.224137931
+58,future,low life,future,low-life,792,215,172,172,4.781395349,5.220930233,5.220930233
+59,future,march madness,future,march-madness,758,184,149,150,4.380434783,4.765100671,4.766666667
+60,rich homie quan,flex ooh ooh ooh,rich-homie-quan,flex-ooh-ooh-ooh,505,159,113,117,4.264150943,4.752212389,4.760683761
+61,rich homie quan,gamble,rich-homie-quan,gamble,545,216,168,174,4.240740741,4.541666667,4.568965517
+62,rich homie quan,type of way,rich-homie-quan,type-of-way,612,182,138,141,4.516483516,4.963768116,4.992907801
+63,rich homie quan,walk thru,rich-homie-quan,walk-thru,492,166,120,124,4.385542169,4.883333333,4.903225806
+64,rich homie quan,replay,rich-homie-quan,replay,567,201,153,156,4.567164179,5.052287582,5.064102564
+65,fetty wap,679,fetty-wap,679,600,198,150,152,4.383838384,4.84,4.855263158
+66,fetty wap,trap queen,fetty-wap,trap-queen,591,185,147,149,4.291891892,4.666666667,4.684563758
+67,fetty wap,my way,fetty-wap,my-way,427,173,129,134,4.335260116,4.790697674,4.820895522
+68,fetty wap,again,fetty-wap,again,706,149,108,111,4.44295302,4.990740741,5.018018018
+69,fetty wap,rgf island,fetty-wap,rgf-island,276,91,64,66,4.21978022,4.796875,4.803030303
+70,desiigner,timmy turner,desiigner,timmy-turner,709,117,81,83,4.401709402,5.024691358,5.048192771
+71,desiigner,panda,desiigner,panda,640,188,149,150,4.627659574,5.073825503,5.08
+72,desiigner,liife,desiigner,liife,518,170,131,133,4.4,4.816793893,4.834586466
+73,desiigner,outlet,desiigner,outlet,631,205,163,165,4.502439024,4.901840491,4.915151515
+74,desiigner,up,desiigner,up,495,83,59,62,4.072289157,4.542372881,4.596774194
